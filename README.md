@@ -4,7 +4,7 @@ I am Nando a Full Stack Developer with a degree in Electronics Engineering and v
 
 ## Technologies & Tools
 
-<img src="https://img.shields.io/badge/JavaScript-222d2d?logo=javascript&logoColor=F7DF1E&logoWidth=20&style=plastic" height="40"/>
+<img src="https://img.shields.io/badge/JavaScript-222d2d?logo=javascript&logoColor=F7DF1E&logoWidth=20&style=plastic" height="25"/>
 
 <!--
 **Nando-C/Nando-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
