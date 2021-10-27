@@ -1,4 +1,4 @@
-### Hi guys! 👋
+# Hi guys! 👋
 
 I am Nando a Full Stack Developer with a degree in Electronics Engineering and vast experience delivering mechanical and automation projects for security & defence, food processing and live entertainment industries.
 
