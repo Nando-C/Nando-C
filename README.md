@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi guys! 👋
+
+I am Nando a Full Stack Developer with a degree in Electronics Engineering and vast experience delivering mechanical and automation projects for security & defence, food processing and live entertainment industries.
+
+## Technologies & Tools
+
+![](https://img.shields.io/badge/JavaScript?logo=javascript&logoColor=F7DF1E)
 
 <!--
 **Nando-C/Nando-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
