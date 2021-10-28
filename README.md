@@ -20,7 +20,7 @@ I am Nando a Full Stack Developer with a degree in Electronics Engineering and b
 
 ## GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nando-C&show_icons=true&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nando-C&hide=stars,issues&show_icons=true&theme=merko" />
 
 <!--
 **Nando-C/Nando-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
