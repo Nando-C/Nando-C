@@ -14,6 +14,10 @@ I am Nando a Full Stack Developer with a degree in Electronics Engineering and b
 
 <img src="https://img.shields.io/badge/Next.js-222d2d?logo=Next.js&logoColor=FFFFFF&logoWidth=15&style=plastic" height="25"/> <img src="https://img.shields.io/badge/Vue.js-222d2d?logo=Vue.js&logoColor=4FC08D&logoWidth=15&style=plastic" height="25"/>
 
+## 🔎 Find Me On
+
+[<img src="https://img.shields.io/badge/LinkedIn-222d2d?logo=LinkedIn&logoColor=0A66C2&logoWidth=15&style=plastic" height="25"/>](https://www.linkedin.com/in/hernando-crespo-30bb40164)
+
 <!--
 **Nando-C/Nando-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
