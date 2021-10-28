@@ -1,6 +1,6 @@
 ## Hi guys! 👋
 
-I am Nando a Full Stack Developer with a degree in Electronics Engineering and vast experience delivering projects around the globe.
+I am Nando a Full Stack Developer with a degree in Electronics Engineering and background experience delivering mechanical & automation projects around the globe.
 
 ## 🛠 Technologies & Tools
 
@@ -8,7 +8,7 @@ I am Nando a Full Stack Developer with a degree in Electronics Engineering and v
 
 ## 📈 Currently Improving
 
-<img src="https://img.shields.io/badge/Socket.io-222d2d?logo=Socket.io&logoColor=010101&logoWidth=15&style=plastic" height="25"/> <img src="https://img.shields.io/badge/Jest-222d2d?logo=Jest&logoColor=C21325&logoWidth=15&style=plastic" height="25"/> <img src="https://img.shields.io/badge/PostgreSQL-222d2d?logo=PostgreSQL&logoColor=4169E1&logoWidth=15&style=plastic" height="25"/>
+<img src="https://img.shields.io/badge/Socket.io-222d2d?logo=Socket.io&logoColor=FFFFFF&logoWidth=15&style=plastic" height="25"/> <img src="https://img.shields.io/badge/Jest-222d2d?logo=Jest&logoColor=C21325&logoWidth=15&style=plastic" height="25"/> <img src="https://img.shields.io/badge/PostgreSQL-222d2d?logo=PostgreSQL&logoColor=4169E1&logoWidth=15&style=plastic" height="25"/>
 
 ## 📝 Next In The Pipeline
 
