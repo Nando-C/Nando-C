@@ -20,7 +20,7 @@ I am Nando a Full Stack Developer with a degree in Electronics Engineering and b
 
 ## GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nando-C&hide=stars,issues&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nando-C&hide=Shell,CSS&show_icons=true&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nando-C&hide=stars,issues&show_icons=true&theme=tokyonight" />
 
 <!--
