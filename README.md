@@ -22,7 +22,7 @@ I am Nando a Full Stack Developer with a degree in Electronics Engineering and b
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nando-C&hide=Shell,CSS&langs_count=3&show_icons=true&theme=tokyonight" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nando-C&show_icons=true&theme=tokyonight" />
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nando-C&repo=UnQ-BE&show_icons=true&theme=tokyonight" />](https://github.com/Nando-C/UnQ-BE) [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nando-C&repo=UnQ-FE&show_icons=true&theme=tokyonight" />](https://github.com/Nando-C/UnQ-FE)
+<!-- [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nando-C&repo=UnQ-BE&show_icons=true&theme=tokyonight" />](https://github.com/Nando-C/UnQ-BE) [<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nando-C&repo=UnQ-FE&show_icons=true&theme=tokyonight" />](https://github.com/Nando-C/UnQ-FE) -->
 
 <!--
 **Nando-C/Nando-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
